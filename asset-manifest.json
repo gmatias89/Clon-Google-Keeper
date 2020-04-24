@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/Clon-Google-Keeper/static/js/main.1c316fc7.chunk.js",
+    "main.js.map": "/Clon-Google-Keeper/static/js/main.1c316fc7.chunk.js.map",
+    "runtime-main.js": "/Clon-Google-Keeper/static/js/runtime-main.fcbed4ca.js",
+    "runtime-main.js.map": "/Clon-Google-Keeper/static/js/runtime-main.fcbed4ca.js.map",
+    "static/js/2.fdc06cda.chunk.js": "/Clon-Google-Keeper/static/js/2.fdc06cda.chunk.js",
+    "static/js/2.fdc06cda.chunk.js.map": "/Clon-Google-Keeper/static/js/2.fdc06cda.chunk.js.map",
+    "index.html": "/Clon-Google-Keeper/index.html",
+    "precache-manifest.acc204d56262ad20aca314c2d9b521a2.js": "/Clon-Google-Keeper/precache-manifest.acc204d56262ad20aca314c2d9b521a2.js",
+    "service-worker.js": "/Clon-Google-Keeper/service-worker.js",
+    "static/js/2.fdc06cda.chunk.js.LICENSE.txt": "/Clon-Google-Keeper/static/js/2.fdc06cda.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fcbed4ca.js",
+    "static/js/2.fdc06cda.chunk.js",
+    "static/js/main.1c316fc7.chunk.js"
+  ]
+}
